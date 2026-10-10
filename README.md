@@ -1,0 +1,2 @@
+# resetNightmareModify
+ResetNightmare漏洞的无损利用，包含了scanner.py漏洞检测脚本以及resetNightmare.py漏洞利用脚本
